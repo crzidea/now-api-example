@@ -25,3 +25,4 @@ This directory is a brief example of building an API service using [Next.js](htt
    ```sh
    now secret add example 23333
    ```
+4. Back to the CodeSandbox, in the `Deployment` panel, click `Deploy`.
