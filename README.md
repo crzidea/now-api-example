@@ -13,3 +13,15 @@ This directory is a brief example of building an API service using [Next.js](htt
 
 ### Deploy
 
+1. Install now on local, run:
+   ```sh
+   npm install -g now
+   ```
+2. Login:
+   ```sh
+   now login
+   ```
+3. Add secret:
+   ```sh
+   now secret add example 23333
+   ```
