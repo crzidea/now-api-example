@@ -2,6 +2,11 @@
 
 This directory is a brief example of building an API service using [Next.js](https://nextjs.org), which can be deployed to ZEIT Now with environments.
 
+Online eample:
+
+- https://api-example.crzidea.now.sh/api/date
+- https://api-example.crzidea.now.sh/api/example-env
+
 ## How to use this template
 
 ### Edit code and test
