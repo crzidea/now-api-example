@@ -1,1 +1,6 @@
-{"name":"nextjs"}
+{
+  "name": "api-example",
+  "env": {
+    "EXAMPLE": "@example"
+  }
+}
